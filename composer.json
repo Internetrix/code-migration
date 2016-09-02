@@ -2,7 +2,7 @@
     "name": "magento/migration",
     "description": "Tools for migrating Magento 1 extensions to Magento 2",
     "type": "project",
-    "version": "0.0.1-alpha",
+    "version": "0.0.1",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
