@@ -54,5 +54,6 @@
             "Magento\\TestFramework\\Utility\\": "dev/tests/static/framework/Magento/TestFramework/Utility/"
         }
     },
+    "minimum-stability" : "dev",
     "prefer-stable": true
 }
